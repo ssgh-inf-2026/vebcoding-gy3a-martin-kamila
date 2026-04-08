@@ -1,19 +1,19 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AtltiCc-)
+*892*6/úů§-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AtltiCc-)
 # Projekt: Vibe coding – webová aplikace
 
 ## Název projektu
-Doplňte název aplikace.
+tady se ztratíš
 
 ## Členové týmu
-- Jméno 1
-- Jméno 2
+- Martin
+- Kamila
 
 ## Téma aplikace
-Stručně napište, co bude vaše aplikace dělat.
+Bude pomáhat slepcům.
 
 ## Cílový uživatel
 Pro koho je aplikace určená?
-
+slepým lidem
 ## 3 plánované funkce
 1. Doplňte
 2. Doplňte
