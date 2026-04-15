@@ -15,9 +15,9 @@ Bude pomáhat slepcům.
 Pro koho je aplikace určená?
 slepým lidem
 ## 3 plánované funkce
-1. Doplňte
-2. Doplňte
-3. Doplňte
+1. ukazovaní cesty
+2. varování před autama
+3. vodící pes
 
 ## Průběh práce
 
